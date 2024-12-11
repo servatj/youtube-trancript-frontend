@@ -34,7 +34,7 @@ export default function Home() {
               input: "text-md",
             }}
           />
-          <Button
+          <Button   
             size="lg"
             color="primary"
             className="px-8"
